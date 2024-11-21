@@ -17,6 +17,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.ibb.co/WDHq 8s3/sg-icon.png" />
   <link rel="canonical" href="https://fisioterapi.fkunud.com/" />
+  <meta name="google-site-verification" content="fGcTdi0Of2CrLqP6EzbpjM0tODDHfy2GHxe7rPbRRCo" />
   <link rel="amphtml" href="https://amp-fisioterapi.web.app/" />
   <!-- start preload -->
   <link rel="preload" href="https://i.ibb.co/ynD4Pmh/hoavbba-lazd.jpg" as="image" />
