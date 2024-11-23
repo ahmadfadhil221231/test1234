@@ -3,16 +3,16 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D</title>
-  <meta name="description" content="SLOT4D merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT4D." />
+  <title>SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR</title>
+  <meta name="description" content="SLOT GACOR merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT GACOR." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="https://fisioterapi.fkunud.com/" />
-  <meta name="og:title" content="SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D" />
+  <meta name="og:title" content="SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="SLOT4D merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT4D." />
+  <meta name="og:description" content="SLOT GACOR merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT GACOR." />
   <meta name="og:image" content="https://i.ibb.co/ynD4Pmh/hoavbba-lazd.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.ibb.co/WDHq 8s3/sg-icon.png" />
@@ -125,7 +125,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp8.899.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp8.899.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -525,7 +525,7 @@
     {
       "@type": "Product",
       "@context": "https://schema.org",
-      "name": "SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D",
+      "name": "SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR",
       "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
       "category": "Televisi & Video",
       "brand": {
@@ -535,7 +535,7 @@
       },
       "sku": "3642482616_ID-6108584955",
       "mpn": 3642482616,
-      "description": "SLOT4D merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT4D.",
+      "description": "SLOT GACOR merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT GACOR.",
       "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
       "offers": {
         "@type": "Offer",
@@ -560,7 +560,7 @@
         "position": 1,
         "item": {
           "@id": "https://fisioterapi.fkunud.com/",
-          "name": "SLOT4D"
+          "name": "SLOT GACOR"
         }
       }, {
         "@type": "ListItem",
@@ -581,14 +581,14 @@
         "position": 4,
         "item": {
           "@id": "https://fisioterapi.fkunud.com/",
-          "name": "SLOT4D"
+          "name": "SLOT GACOR"
         }
       }, {
         "@type": "ListItem",
         "position": 5,
         "item": {
           "@id": "https://fisioterapi.fkunud.com/",
-          "name": "SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D"
+          "name": "SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR"
         }
       }]
     }
@@ -706,7 +706,7 @@
                   <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                 <div class="top-links-item" id="topActionFeedback">
-                  <a class="highlight" target="_blank" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT4D</a>
+                  <a class="highlight" target="_blank" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT GACOR</a>
                 </div>
                 <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                   <span>SLOT GACOR</span>
@@ -760,7 +760,7 @@
                   <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SLOT ONLINE</a>
                 </div>
                 <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                  <span>SLOT4D</span>
+                  <span>SLOT GACOR</span>
                   <div class="lzd-customcare-popup top-popup-wrap">
                     <div class="top-popup-content l-customcare-content">
                       <ul class="care-list">
@@ -3000,7 +3000,7 @@
           <div id="module_item_gallery_1" class="pdp-block module">
             <div class="item-gallery" data-spm="gallery">
               <div class="gallery-preview-panel">
-                <div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D" src="https://i.ibb.co/ynD4Pmh/hoavbba-lazd.jpg" /></div>
+                <div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR" src="https://i.ibb.co/ynD4Pmh/hoavbba-lazd.jpg" /></div>
               </div>
               <div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider">
                 <div class="next-slick-inner next-slick-initialized" draggable="true">
@@ -3027,7 +3027,7 @@
               <div id="module_product_title_1" class="pdp-block module">
                 <div class="pdp-product-title">
                   <div class="pdp-mod-product-badge-wrapper">
-                    <h1 class="pdp-mod-product-badge-title">SLOT4D 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT4D</h1>
+                    <h1 class="pdp-mod-product-badge-title">SLOT GACOR 🍑 Link Alternatif Slot Gacor 4D Kejutan Scatter Hitam Di SLOT GACOR</h1>
                   </div>
                 </div>
               </div>
@@ -3052,7 +3052,7 @@
                 </div>
               </div>
               <div id="module_product_brand_1" class="pdp-block module">
-                <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://fisioterapi.fkunud.com/">SLOT4D</a>
+                <div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://fisioterapi.fkunud.com/">SLOT GACOR</a>
                   <div class="pdp-product-brand__divider"></div>
                   <div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://jali.me/slot777maxwin"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://jali.me/slot777maxwin" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a>
                     <form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form>
@@ -3063,7 +3063,7 @@
               <div id="block-cKVxLtoIbl2" class="pdp-block module"></div>
               <div id="module_product_price_1" class="pdp-block module">
                 <div class="pdp-mod-product-price">
-                  <p><a href="https://fisioterapi.fkunud.com/">SLOT4D</a> merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT4D.</p>
+                  <p><a href="https://fisioterapi.fkunud.com/">SLOT GACOR</a> merupakan situs judi slot gacor 4d online terpercaya dan terbaik di Indonesia dengan berbagai macam jenis permainan slot online terbesar dan banyak sediakan hanya di SLOT GACOR.</p>
                   <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.20.000</span>
                     <div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-80%</span></div>
                   </div>
